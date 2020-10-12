@@ -1,6 +1,10 @@
 # How to run the notebooks in Google Colab
 
-First of all you need to login to your Google account.
+The easiest way to open the colab notebooks is by simply clicking on the links to the notebooks on the landing page of this repository (README.md).
+
+Alternatively there is another approach over colab.research.google.com directly.
+
+For this you need to login to your Google account.
 
 Go to the URL: **https://colab.research.google.com/github/**
 
