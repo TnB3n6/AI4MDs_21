@@ -1,6 +1,6 @@
 <img src="images/logo_CS_MS_final.png" height="500" align="right"> 
 
-# ML4MS - 2020
+# AI4MDs - 2021
 
 This repository contains the Jupyter notebook exercises for the course Machine Learning for Medical Students - 2020.
 
