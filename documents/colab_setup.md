@@ -7,7 +7,7 @@ Go to the URL: **https://colab.research.google.com/github/**
 A webpage will open like this:
 ![Colab](../images/colab.png)
 
-Enter the URL of the Github repository: *https://github.com/IFL-CAMP/ML4MS_2020* 
+Enter the URL of the Github repository: *https://github.com/IFL-CAMP/AI4MDs_21* 
 ![Colab](../images/colab1.png)
 
 Then click search or press Enter. The widget will display the notebooks in the repository.
