@@ -2,7 +2,7 @@
 
 # AI4MDs - 2021
 
-This repository contains the Jupyter notebook exercises for the course Machine Learning for Medical Students - 2020.
+This repository contains the Jupyter notebook exercises for the course AI4MDs which is a part of [ai-for-doctors](http://ai-for-doctors.com)
 
 ## How to Run
 
