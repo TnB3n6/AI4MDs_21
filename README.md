@@ -14,9 +14,9 @@ More information and additional material can be found here [Summary of Tutorials
 
 ## changes 10.11.2020 ##
 We renamed the exercises to match the weeks of the course.
-Exercise_0 --> Exercise_1 (week1)
-Exercise_1 --> Exercise_2 (week2)
-Exercise_2 --> Exercise_3 (week3)
+- Exercise_0 --> Exercise_1 (week1)
+- Exercise_1 --> Exercise_2 (week2)
+- Exercise_2 --> Exercise_3 (week3)
 
 ## Exercises
 
