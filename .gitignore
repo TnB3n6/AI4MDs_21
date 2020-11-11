@@ -2,4 +2,5 @@ exercises/.DS_Store
 exercises/.ipynb_checkpoints/
 exercises/.vscode/
 .idea/
+.DS_Store
 old/
