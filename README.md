@@ -27,5 +27,8 @@ We renamed the exercises to match the weeks of the course.
 - [Exercise 3: Data Visualization and Analysis](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_3.ipynb)
   - [Bonus](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_3_Bonus.ipynb)
 - [Exercise 4: Convolutional Neural Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_4.ipynb)
+- [Lecture 4: Convolutional Neural Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/lectures/Lecture_4.ipynb)
+
+
 
 
