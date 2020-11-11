@@ -19,16 +19,18 @@ We renamed the exercises to match the weeks of the course.
 - Exercise_2 --> Exercise_3 (week3)
 
 ## Exercises
-
-- [Exercise 1: Introduction to Python - Part 1](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_1.ipynb)
+- Week 1
+  - [Exercise 1: Introduction to Python - Part 1](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_1.ipynb)
   - [Solution](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/solutions/Exercise_1_Solution.ipynb)
-- [Exercise 2: Introduction to Python - Part 2](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_2.ipynb)
+- Week 2
+  - [Exercise 2: Introduction to Python - Part 2](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_2.ipynb)
   - [Solution](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/solutions/Exercise_2_Solution.ipynb)
-- [Exercise 3: Data Visualization and Analysis](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_3.ipynb)
+- Week 3
+  - [Exercise 3: Data Visualization and Analysis](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_3.ipynb)
   - [Bonus](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_3_Bonus.ipynb)
-- [Exercise 4: Convolutional Neural Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_4.ipynb)
-- [Lecture 4: Convolutional Neural Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/lectures/Lecture_4.ipynb)
-
+- Week 4
+  - [Lecture 4: Convolutional Neural Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/lectures/Lecture_4.ipynb)
+  - [Exercise 4: Convolutional Neural Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_4.ipynb)
 
 
 
