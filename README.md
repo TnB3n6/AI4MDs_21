@@ -32,6 +32,9 @@ We renamed the exercises to match the weeks of the course.
 - Week 4
   - [Lecture 4: Convolutions](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/lectures/Lecture_4.ipynb)
   - [Exercise 4: Convolutions](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_4.ipynb)
+  - [Solution](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/solutions/Exercise_4_Solution.ipynb)
+
+
 
 
 
