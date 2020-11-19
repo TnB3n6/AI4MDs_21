@@ -33,7 +33,7 @@ We renamed the exercises to match the weeks of the course.
   - [Lecture 4: Convolutions](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/lectures/Lecture_4.ipynb)
   - [Exercise 4: Convolutions](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_4.ipynb)
   - [Solution](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/solutions/Exercise_4_Solution.ipynb)
-- Week 4
+- Week 5
   - [Exercise 5.1: Object Oriented Programming](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_5_1.ipynb)
   - [Exercise 5.2: Pytorch Datasets](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_5_2.ipynb)
 
