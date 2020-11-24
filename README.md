@@ -12,12 +12,6 @@ Refer to the [colab_setup](documents/colab_setup.md) for running the notebooks o
 
 More information and additional material can be found here [Summary of Tutorials](documents/ListOfTutorials.md)
 
-## changes 10.11.2020 ##
-We renamed the exercises to match the weeks of the course.
-- Exercise_0 --> Exercise_1 (week1)
-- Exercise_1 --> Exercise_2 (week2)
-- Exercise_2 --> Exercise_3 (week3)
-
 ## Exercises
 - Week 1
   - [Exercise 1: Introduction to Python - Part 1](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_1.ipynb)
@@ -36,6 +30,10 @@ We renamed the exercises to match the weeks of the course.
 - Week 5
   - [Exercise 5.1: Object Oriented Programming](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_5_1.ipynb)
   - [Exercise 5.2: Pytorch Datasets](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_5_2.ipynb)
+- Week 6
+  - [Exercise 6: Transformations and Dataloader](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_6.ipynb)
+  - [Exercise 6.1: Confusing pretrained Network with Transformations](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_6_1.ipynb)
+
 
 
 
