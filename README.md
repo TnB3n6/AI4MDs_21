@@ -30,6 +30,8 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 5
   - [Exercise 5.1: Object Oriented Programming](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_5_1.ipynb)
   - [Exercise 5.2: Pytorch Datasets](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_5_2.ipynb)
+  - [Solution 5.1](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/solutions/Exercise_5_1_Solution.ipynb)
+  - [Solution 5.2](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/solutions/Exercise_5_2_Solution.ipynb)
 - Week 6
   - [Exercise 6: Transformations and Dataloader](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_6.ipynb)
   - [Exercise 6.1: Confusing pretrained Network with Transformations](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_6_1.ipynb)
