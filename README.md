@@ -35,6 +35,9 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 6
   - [Exercise 6: Transformations and Dataloader](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_6.ipynb)
   - [Exercise 6.1: Confusing pretrained Network with Transformations](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_6_1.ipynb)
+  - [Solution 6](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_6_solution.ipynb)
+  - [Solution 6.1](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_6_1_solution.ipynb)
+  
 - Week 7
   - [Exercise 7: Network Setup and First Training](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_7.ipynb)
 
