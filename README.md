@@ -41,7 +41,8 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 7
   - [Exercise 7: Network Setup and First Training](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_7.ipynb)
 
-
+- Week 8
+  - in progress
 
 
 
