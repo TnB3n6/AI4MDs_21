@@ -44,3 +44,6 @@ More information and additional material can be found here [Summary of Tutorials
 
 - Week 8
   - [Exercise 8: Training Neural Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_8.ipynb)
+
+- Week 9
+  - [Exercise 9 Bonus: Generative Adversarial Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_9_Bonus_GAN_for_MNIST.ipynb)
