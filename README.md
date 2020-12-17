@@ -48,3 +48,4 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 9
   - [Exercise 9 Inference: HAM10k inference](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_9_inference.ipynb)
   - [Exercise 9 Bonus: Generative Adversarial Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_9_Bonus_GAN_for_MNIST.ipynb)
+  - [Exercise 9 Bonus: Best Practices and 3D Unet Segmentation of Hippocampus](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_9_Bonus_3D_Unet_Hippocampus_Segmentation.ipynb)
