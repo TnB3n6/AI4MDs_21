@@ -44,6 +44,7 @@ More information and additional material can be found here [Summary of Tutorials
 
 - Week 8
   - [Exercise 8: Training Neural Networks](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_8.ipynb)
+  - [Solution] (https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/solutions/Exercise_8_sol.ipynb)
 
 - Week 9
   - [Exercise 9 Inference: HAM10k inference](https://colab.research.google.com/github/IFL-CAMP/AI4MDs_21/blob/main/exercises/Exercise_9_inference.ipynb)
